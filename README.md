@@ -5,7 +5,7 @@ fun about() {
             "Benjamin Zubača",
         currentlyLearning =
             listOf("Kotlin", "Spring Framework"),
-        volunteeringFor =
+        volunteeringAs =
             mapOf(
                 "Software Developer" to "Studentmediene i Trondheim",
                 "IT-Committee Member" to "Studentenes Kameraklubb"
