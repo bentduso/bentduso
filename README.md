@@ -3,8 +3,6 @@ fun about() {
     val bentduso = Student(
         name =
             "Benjamin Zubača",
-        currentlyLearning =
-            listOf("Kotlin", "Spring Framework"),
         volunteeringAs =
             mapOf(
                 "Leader" to "Koseprogg",
