@@ -1,14 +1,11 @@
-```Kotlin
-fun about() {
-    val bentduso = Student(
-        name =
-            "Benjamin Zubača",
-        volunteeringAs =
-            mapOf(
-                "Leader" to "Koseprogg",
-                "Software Developer" to "Studentmediene i Trondheim",
-                "IT-Committee Member" to "Studentenes Kameraklubb"
-        )
-    )
-}
+```elixir
+defmodule About do
+  @bentduso %Student{
+    name: "Benjamin Zubača",
+    volunteering_as: %{
+      "Leader" => "Koseprogg",
+      "Software Developer" => "Studentmediene i Trondheim"
+    }
+  }
+end
 ```
