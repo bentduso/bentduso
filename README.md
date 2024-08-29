@@ -4,7 +4,7 @@ defmodule About do
     name: "Benjamin Zubača",
     volunteering_as: %{
       "Leader" => "Koseprogg",
-      "Software Developer" => "Studentmediene i Trondheim"
+      "IT Deputy Leader" => "Studentmediene i Trondheim"
     }
   }
 end
